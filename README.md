@@ -1,4 +1,4 @@
-# Project Title
+# Argos Scraper
 
 A scrapy project to scrape product information from Argos.co.uk
 
