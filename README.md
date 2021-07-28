@@ -22,8 +22,8 @@ This scrapy project uses a custom spider to scrape product data from Argos. It s
 
 ### Executing program
 
-* Open "settings.py". Change the database setting starting on line 93 to reflect the database you want the scraped data to be stored in.
-''''
+* Open "settings.py". Change the database setting, starting on line 93, to reflect the database you want the scraped data to be stored in.
+```
 DATABASE = {    
     'db': 'DATABASE',
     'user': 'USERNAME',
@@ -32,13 +32,6 @@ DATABASE = {
     'charset': 'utf8',    
     'use_unicode': True,    
 }
-''''
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 
 ## Authors
