@@ -91,10 +91,10 @@ HTTPCACHE_ENABLED = True
 
 #MySQL database settings
 DATABASE = {    
-    'db': 'argos',             # Your db   
-    'user': 'scraper',
-    'passwd': 'Jc}a)J!2,3g|c@]Ghxz_2?gTyE',
-    'host': 'localhost',      # Your Server
+    'db': 'DATABASE',
+    'user': 'USERNAME',
+    'passwd': 'PASSWORD',
+    'host': 'SERVER',
     'charset': 'utf8',    
     'use_unicode': True,    
-} 
+}
