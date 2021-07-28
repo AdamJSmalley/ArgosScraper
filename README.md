@@ -15,9 +15,9 @@ This scrapy project uses a custom spider to scrape product data from Argos. It s
 
 ### Installing
 
-* [Install Scrapy](https://github.com/scrapy/scrapy)
+* [Install Scrapy](https://github.com/scrapy/scrapy)/
 `pip install scrapy`
-* Clone the repository.
+* Clone the repository./
 `git clone https://github.com/AdamJSmalley/ArgosScraper.git`
 
 ### Executing program
